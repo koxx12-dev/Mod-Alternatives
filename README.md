@@ -210,7 +210,6 @@
 | [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | A mod filled with even more features to replace SkyBlockExtras. [**feature list**](https://github.com/Skytils/SkytilsMod/blob/main/README.md) | [Sychic](https://github.com/Sychic), [Lily](https://github.com/My-Name-Is-Jeff) and Angry_Pineapple | [Skytils Discord](https://discord.gg/skytils) |
 | [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, vanilla Minecraft bug fixes, and many QoL changes. [**feature list**](https://github.com/LunaNotdev/Patcher-Explanation) | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) | [Sk1er Discord](https://discord.gg/sk1er) |
 | [**SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5) | There's a 99.9% chance that you already know what this is. | [Biscuit](https://biscuit.codes/) | [Biscuit's Bakery](https://discord.gg/biscuit) |
-|
 
 **It's recommended to check out [SkyClient](https://discord.com/invite/VH6fdBYzQQ) for a download to an instant mod installer for most popular Hypixel SkyBlock mods.**
 
@@ -220,7 +219,7 @@
     - Causes incompatabilities and issues because of the above statement.
 - Unfathomable amounts of incompatability issues.
     - Due to how the mod is made with mixins and how they're abused so heavily, SkyBlockExtras causes many incompatabilities with other mods, meaning that you won't be able to use said mods in tandem. If you use SkyBlockExtras and you go to the mod's support server you most likely won't receive support or you'll be told to stop using SkyBlockExtras.
-- Extreme amounts of obfuscated.
+- Extreme amounts of obfuscation.
     - Other mod developers can't read your crash reports or even try fathom what they need to change in order to stop this incompatability due to how SkyBlockExtras is obfuscated. If your game crashes and you use SkyBlockExtras NO ONE will even try to help you. The code is obfuscated in such a way to hide the developers blatant piracy and tendencies to "skid". (steal code)
 - BLATANTLY steals code from other mods.
     - Looking at the mods code while "decompiled" and semi-deobfuscated you can see how much of its code is stolen from other popular mods.
