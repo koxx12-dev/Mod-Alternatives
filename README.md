@@ -232,7 +232,7 @@
             - Custom skull models: Originally, ComplexOrigin made a statement saying that they won't be stealing features from other mods and that people shouldn't request features from other mods. They went back on this not much later by stealing the custom skull models feature from NotEnoughUpdates.
         - ModCore
             - Licensing: According to the ModCore licensing, this is not allowed.
-- Directly breaks Mojams EULA.
+- Directly breaks Mojang's EULA.
     - Mojang had stated that it's against their EULA to sell mods or make profit off of what THEY have made. [![EULA stating the above](assets/Paid-Mods-Against-Minecraft-EULA.png)](https://account.mojang.com/documents/minecraft_eula)
 - Performance issues.
     - ComplexOrigin thought the "solution" of this was to steal even more of Patcher optimization features, he was wrong.
