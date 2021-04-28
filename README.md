@@ -111,7 +111,6 @@
     - [MatthewTGM's Terbium (BETA)](https://discord.gg/teZMYPwW5x)
 - Potion Status
     - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
-    - [Xander's EvergreenHUD](https://github.com/Evergreen-Client/EvergreenHUD/releases/latest)
     - [MatthewTGM's SimpleHUD](https://www.curseforge.com/minecraft/mc-mods/simplehud)
     - [MatthewTGM's Terbium (BETA)](https://discord.gg/teZMYPwW5x)
 - Reach Display
@@ -132,6 +131,7 @@
     - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
     - [MatthewTGM's SimpleHUD](https://www.curseforge.com/minecraft/mc-mods/simplehud)
     - [MatthewTGM's Terbium (BETA)](https://discord.gg/teZMYPwW5x)
+    - [Xander's EvergreenHUD](https://github.com/Evergreen-Client/EvergreenHUD/releases/latest)
 - ShinyPots
     - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - Stopwatch
