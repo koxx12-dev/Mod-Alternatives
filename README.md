@@ -1,5 +1,6 @@
 # Mod-Alternatives
 ## Provides alternatives for many popular but bad clients, mods or mod folders.
+## [Original](https://github.com/MicrocontrollersDev/Alternativesd)
 
 <details>
     <summary>Badlion Client</summary>
